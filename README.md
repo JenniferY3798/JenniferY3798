@@ -1,6 +1,9 @@
 👋 Hi, I’m @JenniferY3798
+
 👀 I’m interested in hardware engineering!
+
 🌱 I’m currently learning circuit design & Altium Designer
+
 📫 Reach me by email: j263yan@uwaterloo.ca
 
 <!---
