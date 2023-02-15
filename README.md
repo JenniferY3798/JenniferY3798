@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning circuit design & Altium Designer
 
-✨ I'm on the electrical team for Waterloop! JenniferY-waterloop
+✨ I'm on the electrical team for Waterloop! More on my other GitHub Account: @JenniferY-waterloop
 
 📫 Reach me by email: j263yan@uwaterloo.ca
 
